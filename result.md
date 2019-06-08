@@ -45,7 +45,7 @@ mysql> select company.companyName, AVG(employee.salary) from company,employee wh
 ```
 &nbsp;
 
-#### practice3:
+#### practice4:
 
 ---
 ```$xslt
