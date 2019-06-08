@@ -1,7 +1,7 @@
 
-##result
+## result
 &nbsp;
-####practice1:
+#### practice1:
 
 ---
 ```$xslt
@@ -15,7 +15,7 @@ mysql> SELECT * FROM Employee where salary >6000 AND NAME LIKE '%n%';
 ```
 &nbsp;
 
-####practice2:
+#### practice2:
 
 ---
 ```$xslt
@@ -31,7 +31,7 @@ mysql> select company.companyName,employee.name from company,employee where empl
 ```
 &nbsp;
 
-####practice3:
+#### practice3:
 
 ---
 ```$xslt
@@ -45,7 +45,7 @@ mysql> select company.companyName, AVG(employee.salary) from company,employee wh
 ```
 &nbsp;
 
-####practice3:
+#### practice3:
 
 ---
 ```$xslt
